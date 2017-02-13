@@ -1,0 +1,5 @@
+This is a partial implementation of the algorithm described here, but done in Javascript and not Clojure: 
+
+http://exupero.org/hazard/post/islands/
+
+Just load up index.html in your favorite browser and enjoy the procedural island coast lines!
